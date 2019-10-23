@@ -1,3 +1,9 @@
 This is a planet
+<<<<<<< HEAD
 
 long commute
+=======
+Too many Vampires already :(((
+>>>>>>> 304b58c8e56fba920ead5eba8eca0665a9756007
+
+this is bullshit... here we go, though.
